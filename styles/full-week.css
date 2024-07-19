@@ -1,0 +1,47 @@
+header {
+    margin: 50px;
+}
+
+a {
+    color: white;
+    background-color: crimson;
+    font-size: 25px;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: rgb(236, 89, 119);
+}
+
+header p {
+    font-family: "Playwrite IT Moderna", sans-serif;
+    text-align: center;
+    margin: 25px;
+}
+
+
+ol {
+    list-style: none;
+    width: 600px;
+    margin: 25px auto 0;
+    padding: 0;
+}
+
+li {
+    background-color: rgb(216, 57, 89);
+    border-radius: 6px;
+    margin: 20px;
+    color: white;
+    padding: 16px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+
+}
+
+h2 {
+    color: rgb(25, 30, 15)
+}
+
+h2+p {
+    font-size: 25px;
+}

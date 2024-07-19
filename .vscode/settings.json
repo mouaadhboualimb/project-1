@@ -1,0 +1,11 @@
+{
+    "editor.defaultFormatter": "vscode.configuration-editing",
+    "editor.formatOnSave": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "window.zoomLevel": 1,
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    }
+}

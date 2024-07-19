@@ -1,0 +1,45 @@
+img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 3px solid #3c2721;
+    margin-top: -85px;
+
+}
+
+h1 {
+    font-size: 19px;
+}
+
+div {
+    width: 550px;
+    padding: 15px;
+    margin: 100px auto 50px;
+    background-color: #e06c50;
+    border: 3px solid #3c2721;
+    border-radius: 4px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+span {
+    color: #480701;
+}
+
+h1+p {
+    font-size: 36px;
+    color: #443431;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+a {
+    padding: 0;
+}
+
+#mm {
+    color: #5c4d45;
+}
+
+main p:not(:nth-last-child(3n+2), :first-child, :last-of-type) {
+    color: seagreen;
+}
