@@ -7,5 +7,6 @@
     "window.zoomLevel": 1,
     "[css]": {
         "editor.defaultFormatter": "aeschli.vscode-css-formatter"
-    }
+    },
+    "liveServer.settings.port": 5501
 }
